@@ -1456,14 +1456,16 @@ ol {
 
 /* # Footer */
 .footer-area {
-    padding-top: 128px;
-    padding-bottom: 78px;
+    padding-top: 50px;
+    padding-bottom: 80px;
 }
 .main-workspage .footer-area {
-    padding-top: 104px;
+    padding-top: 40px;
 }
 .footer-area .footer-content .logo {
     display: inline-block;
+    width: 250px;
+    margin-bottom: -60px;
 }
 .footer-area .footer-content .logo img {
     display: block;
